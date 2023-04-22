@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RestaurantAppMenu</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name = "choice"> choice breakfast </string>
+    <string name = "choice2"> choice drink </string>
+</resources>
